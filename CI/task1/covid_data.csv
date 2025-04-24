@@ -1,0 +1,109 @@
+,Country,Age group,Confirmed cases,Confirmed fatalities
+0,Italy,0-9,43,0
+1,Italy,10-19,85,0
+2,Italy,20-29,296,0
+3,Italy,30-39,470,0
+4,Italy,40-49,891,1
+5,Italy,50-59,1453,3
+6,Italy,60-69,1471,37
+7,Italy,70-79,1785,114
+8,Italy,80+,1532,202
+9,Argentina,0-9,1002,0
+10,Argentina,10-19,1080,1
+11,Argentina,20-29,2813,1
+12,Argentina,30-39,3142,9
+13,Argentina,40-49,2508,24
+14,Argentina,50-59,1812,54
+15,Argentina,60-69,1005,101
+16,Argentina,70-79,651,123
+17,Argentina,80+,662,194
+18,China,0-9,416,0
+19,China,10-19,549,1
+20,China,20-29,3619,7
+21,China,30-39,7600,18
+22,China,40-49,8571,38
+23,China,50-59,10008,130
+24,China,60-69,8583,309
+25,China,70-79,3918,312
+26,China,80+,1408,208
+27,Colombia,0-9,1105,5
+28,Colombia,10-19,1950,1
+29,Colombia,20-29,5614,13
+30,Colombia,30-39,5615,24
+31,Colombia,40-49,4033,61
+32,Colombia,50-59,3286,121
+33,Colombia,60-69,1961,192
+34,Colombia,70-79,1117,214
+35,Colombia,80+,685,191
+36,Diam. Princ.,0-9,1,0
+37,Diam. Princ.,10-19,5,0
+38,Diam. Princ.,20-29,28,0
+39,Diam. Princ.,30-39,34,0
+40,Diam. Princ.,40-49,27,0
+41,Diam. Princ.,50-59,59,0
+42,Diam. Princ.,60-69,177,0
+43,Diam. Princ.,70-79,234,3
+44,Diam. Princ.,80+,54,4
+45,Netherlands,0-9,128,0
+46,Netherlands,10-19,587,1
+47,Netherlands,20-29,4336,3
+48,Netherlands,30-39,4093,10
+49,Netherlands,40-49,5269,28
+50,Netherlands,50-59,8437,142
+51,Netherlands,60-69,5949,484
+52,Netherlands,70-79,6229,1596
+53,Netherlands,80+,10919,3639
+54,Portugal,0-9,626,0
+55,Portugal,10-19,1052,0
+56,Portugal,20-29,4114,1
+57,Portugal,30-39,4736,1
+58,Portugal,40-49,5315,15
+59,Portugal,50-59,5253,42
+60,Portugal,60-69,3484,122
+61,Portugal,70-79,2537,269
+62,Portugal,80+,4479,919
+63,South Africa,0-9,755,2
+64,South Africa,10-19,1147,1
+65,South Africa,20-29,5319,4
+66,South Africa,30-39,7720,33
+67,South Africa,40-49,5754,61
+68,South Africa,50-59,3753,144
+69,South Africa,60-69,1663,153
+70,South Africa,70-79,754,113
+71,South Africa,80+,415,66
+72,Spain,0-9,1123,3
+73,Spain,10-19,2068,5
+74,Spain,20-29,15272,24
+75,Spain,30-39,24902,65
+76,Spain,40-49,37970,218
+77,Spain,50-59,45750,663
+78,Spain,60-69,36355,1825
+79,Spain,70-79,34294,4896
+80,Spain,80+,61026,12886
+81,Sweden,0-9,168,1
+82,Sweden,10-19,401,0
+83,Sweden,20-29,3104,8
+84,Sweden,30-39,4051,12
+85,Sweden,40-49,4962,39
+86,Sweden,50-59,6190,129
+87,Sweden,60-69,4186,294
+88,Sweden,70-79,3888,909
+89,Sweden,80+,7482,2733
+90,Switzerland,0-9,162,0
+91,Switzerland,10-19,877,0
+92,Switzerland,20-29,3844,0
+93,Switzerland,30-39,4136,5
+94,Switzerland,40-49,4809,4
+95,Switzerland,50-59,6232,37
+96,Switzerland,60-69,3671,121
+97,Switzerland,70-79,2896,335
+98,Switzerland,80+,4080,1146
+99,South Korea,0-9,149,0
+100,South Korea,10-19,636,0
+101,South Korea,20-29,3117,0
+102,South Korea,30-39,1235,2
+103,South Korea,40-49,1481,3
+104,South Korea,50-59,1987,15
+105,South Korea,60-69,1375,39
+106,South Korea,70-79,719,78
+107,South Korea,80+,491,129
