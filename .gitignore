@@ -1,4 +1,92 @@
-*.npz
-*.tar
-*.json
+# ---------------- Python ----------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Виртуальные окружения
+venv/
+.env/
+.envrc
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ---------------- Jupyter ----------------
+.ipynb_checkpoints
+*.ipynb
+
+# ---------------- PyTorch ----------------
+*.pt
+*.pth
+*.ckpt
+
+# ---------------- IDE ----------------
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+
+# ---------------- OS ----------------
+# Mac
+.DS_Store
+# Linux
+*.swp
+*.swo
+*~
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------------- Data / Media ----------------
+# изображения
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+# видео
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+# аудио
+*.mp3
+*.wav
+*.flac
+# архивы
 *.zip
+*.tar
+*.gz
+*.tar.gz
+*.rar
+*.7z
+*.bz2
+# табличные / структурированные данные
+*.csv
+*.json
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.parquet
+*.tsv
+
+# ---------------- Logs ----------------
+*.log
+
+# ---------------- Misc ----------------
+*.pickle
+*.pkl
+*.npy
+*.npz
+
+# ---------------- Папки с данными ----------------
+data/
+results/
+outputs/
